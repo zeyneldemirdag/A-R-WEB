@@ -8,7 +8,7 @@ AİR WEB, uçakların çalışma prensiplerini ve modern havacılık sistemlerin
 - Uçak iç mekanizma diyagramı
 - Kanat, motor, kontrol yüzeyi ve aviyonik sistem anlatımları
 - Scroll animasyonları ve sayaç efektleri
-- Optimize edilmiş görsel dosyaları
+- GitHub Pages uyumlu tek sayfa yapı
 
 ## Kullanılan teknolojiler
 
@@ -17,8 +17,6 @@ AİR WEB, uçakların çalışma prensiplerini ve modern havacılık sistemlerin
 - Vanilla JavaScript
 - SVG tabanlı teknik diyagram
 
-## Çalıştırma
+## Açılış
 
-Projeyi açmak için `index.html` dosyasını tarayıcıda çalıştırın.
-
-GitHub Pages açıksa site ana sayfadan doğrudan yayınlanabilir.
+Ana dosya: `index.html`
