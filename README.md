@@ -2,6 +2,12 @@
 
 AİR WEB, uçakların çalışma prensiplerini ve modern havacılık sistemlerini anlatan animasyonlu bir web projesidir.
 
+## Canlı Demo
+
+GitHub Pages workflow'u eklendi. Deploy tamamlandığında site şu adresten açılabilir:
+
+https://zeyneldemirdag.github.io/A-R-WEB/
+
 ## Özellikler
 
 - Responsive landing page tasarımı
